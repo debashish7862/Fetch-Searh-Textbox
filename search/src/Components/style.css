@@ -1,0 +1,15 @@
+table{
+    margin: 1rem;
+    border: 2px solid black;
+    padding: 1rem;
+}
+th{
+    border: 2px solid green;
+}
+td{
+    border:2px solid yellow;
+    text-align: center;
+}
+div{
+text-align: center;
+}
